@@ -5,3 +5,5 @@ Primeiramente, eu comecei com o básico: o HTML. Defini a estrutura da minha pá
 Em seguida, mergulhei no mundo da estilização com CSS. Confesso que foi um pouco intimidante no início, mas aos poucos fui me familiarizando com as propriedades e valores, e logo estava brincando com cores, fontes e layouts. Aprendi sobre seletores, classes e IDs, e como eles podem ser poderosos para personalizar o visual da minha página.
 
 Um dos momentos mais gratificantes foi quando consegui alinhar tudo perfeitamente, adicionar algumas animações sutis e ver minha tela de login ganhando vida. Foi como assistir ao meu próprio pequeno projeto tomando forma diante dos meus olhos.
+
+![Captura de tela 2024-04-16 014003](https://github.com/WalliDias/First_Login_Screen/assets/159958122/ee71152d-96f3-465d-b462-a44233f57b91)
